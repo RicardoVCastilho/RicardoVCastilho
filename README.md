@@ -5,13 +5,14 @@
 <p align="center">
   💻 FullStack Developer
 <br>
-🎓 Graduated in **Analysis and Systems Development
+🎓 Graduated in Analysis and Systems Development
 <br>
 </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ricardovcastilho&theme=radical&mode=weekly" />
+<img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
+username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
