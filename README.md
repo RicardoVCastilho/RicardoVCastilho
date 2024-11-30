@@ -13,7 +13,8 @@
 
 Check out my portfolio and let's collaborate on amazing projects!
 
-[Visit my Portfolio] |  [View my GitHub](https://github.com/RicardoVCastilho)
+[Visit my Portfolio](https://github.com/RicardoVCastilho) |  [View my GitHub](https://github.com/RicardoVCastilho)
+<br>
 
 
 <div align="center" style="margin-bottom:100px">
