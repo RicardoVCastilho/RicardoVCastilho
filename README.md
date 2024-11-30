@@ -1,23 +1,21 @@
 <p align="center">
-  <h1 align="center">Welcome to Ricardo Castilho</a>'s Profile</h1>
+  <h1 align="center">Welcome to Ricardo Castilho's Profile</h1>
 </p>
 
 <p align="center">
   💻 FullStack Developer
-<br>
-🎓 Graduated in Analysis and Systems Development
-<br>
+  <br>
+  🎓 Graduated in Analysis and Systems Development
+  <br>
 </p>&nbsp;
 
 <div align="center" style="margin-bottom:100px">
   <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" alt="GitHub Streak Stats" />
   <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
 </div>
- 
- &nbsp;
- &nbsp;
 
-
+&nbsp;
+&nbsp;
 
 ## My Skills
 
@@ -60,16 +58,15 @@ I have experience with relational and non-relational databases, which I use to b
 
 <div> 
   <a href="https://www.instagram.com/rv_castilho" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/-Instagram-%23FF3C3C?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="mailto:ricardovdev@hotmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Hotmail-%23007BFF?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/ricardo-vitor-castilho-b60039241/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>&nbsp;&nbsp;
 
-   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
