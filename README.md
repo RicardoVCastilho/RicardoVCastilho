@@ -3,7 +3,7 @@
 </p>
 
 ```bash
- # Hi there! I'm Ricardo 👋
+ # Hi there! Very nice to meet you!👋
 FullStack Developer 💻
 Graduated in Analysis and Systems Development 🎓
 Passionate about coding and problem-solving!
