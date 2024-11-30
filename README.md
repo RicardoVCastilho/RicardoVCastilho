@@ -7,6 +7,7 @@
 FullStack Developer 💻
 Graduated in Analysis and Systems Development 🎓
 Passionate about coding and problem-solving!
+````
 
 ## 🚀 Let's Connect!
 
