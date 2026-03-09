@@ -16,14 +16,6 @@ Check out my portfolio and let's collaborate on amazing projects!
 [Visit my Portfolio](https://github.com/RicardoVCastilho) |  [View my GitHub](https://github.com/RicardoVCastilho)
 <br><br>
 
-<div align="center" style="margin-bottom:100px">
-  <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
-</div>
-
-
-&nbsp;
-&nbsp;
-
 ## My Skills
 
 #### Main Stacks:
